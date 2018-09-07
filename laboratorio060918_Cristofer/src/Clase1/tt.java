@@ -10,5 +10,16 @@ package Clase1;
  * @author Programacion
  */
 public class tt {
+    String tt;
+
+    public String getTt() {
+        return tt;
+    }
+
+    public void setTt(String tt) {
+        this.tt = tt;
+        
+    }
     
+            
 }
